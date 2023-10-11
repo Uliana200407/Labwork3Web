@@ -312,4 +312,21 @@ section .description{
             text-align: center;
         }
         
+
+        @media screen and (max-width: 768px) {
+            header {
+                padding: 20px 10px;
+            }
         
+            header .logo {
+                font-size: 32px;
+            }
+        
+            header .discount-banner {
+                font-size: 18px;
+            }
+        
+            .discount-banner {
+                padding: 10px;
+            }
+        }
