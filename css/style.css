@@ -329,4 +329,9 @@ section .description{
             .discount-banner {
                 padding: 10px;
             }
+            aside .text {
+                max-width: 100%;
+                overflow-wrap: break-word; 
+            }
+        
         }
