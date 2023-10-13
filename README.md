@@ -28,3 +28,7 @@ My aim was to reconstruct the layout, which will be adequate to the rules above.
 https://github.com/Uliana200407/Labwork3Web/assets/114984015/7a354518-a276-4b12-8b4a-6b5fa1da79c4
 ### Ability of mailing list
 This code provides the structure and styling for an email, but it doesn't actually send the email. To send an email, you would need to use a server-side script or a third-party email service to handle the sending process, which is not included in the HTML code itself.
+
+
+https://github.com/Uliana200407/Labwork3Web/assets/114984015/a77e7e89-4ce9-4df0-9f11-e1c076e7bc41
+
