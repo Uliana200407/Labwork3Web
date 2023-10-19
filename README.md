@@ -1,5 +1,5 @@
 # Labwork3Web👩🏽‍💻
-## Mini-description of Labwork1
+## Mini-description of Labwork3
 The aim of Labwork 3 was to make:
 - **Mobile adaptation**
 - **Ability of mailing list ;**
